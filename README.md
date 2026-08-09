@@ -111,15 +111,15 @@ The Supplier Insight dashboard focuses on supplier and transportation performanc
 
 ### Overview
 
-![Overview Dashboard](Images/overview.png)
+![Overview Dashboard](./overview.png)
 
 ### Product Insight
 
-![Product Insight Dashboard](Images/product.png)
+![Product Insight Dashboard](./product.png)
 
 ### Supplier Insight
 
-![Supplier Insight Dashboard](Images/supplier.png)
+![Supplier Insight Dashboard](./supplier.png)
 
 ---
 
