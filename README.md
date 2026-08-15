@@ -80,17 +80,12 @@ The Supplier Insight dashboard focuses on supplier and transportation performanc
 
 ## 🎯 Business Questions
 
-- What is the overall supply chain performance?
 - Which product types generate the most revenue?
 - Which suppliers have higher profit margins?
-- Which suppliers have higher stock levels?
-- How are products performing across different SKUs?
 - Which transportation modes contribute the most to costs?
 - Which transportation modes have higher defect rates?
 - How do supplier profit margins compare with defect rates?
-- Which products have higher order quantities and stock levels?
-- How does lead time vary across SKUs?
-
+ 
 ---
 
 ## 💡 Key Insights
@@ -125,12 +120,11 @@ The Supplier Insight dashboard focuses on supplier and transportation performanc
 
 ## 🎯 Business Recommendations
 
-- Monitor suppliers with higher defect rates and investigate the reasons behind them.
 - Review transportation modes with higher costs to identify opportunities for cost reduction.
-- Monitor supplier stock levels to reduce the risk of overstocking or stock shortages.
-- Analyze products with lower sales or stock performance and determine appropriate inventory actions.
-- Monitor supplier profit margins together with defect rates rather than evaluating suppliers using only one metric.
-- Review lead times regularly to identify products or suppliers that may cause delays.
+- Monitor suppliers with higher defect rates and lower profit margins to improve supplier performance.
+- Monitor products and suppliers with high stock levels to reduce excess inventory.
+- Review products with longer lead times to identify potential supply delays.
+- Regularly monitor key KPIs such as revenue, stock levels, defect rates, profit margin, and lead time.
 
 ---
 
